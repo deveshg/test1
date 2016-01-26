@@ -1,0 +1,7 @@
+com\javacodegeeks\snippets\enterprise\jettywebsocket\jetty\server\ToUpperWebSocketServlet.class
+com\javacodegeeks\snippets\enterprise\jettywebsocket\jsr356\client\ToUpper356ClientSocket.class
+com\javacodegeeks\snippets\enterprise\jettywebsocket\jsr356\server\ToUpper356Socket.class
+com\javacodegeeks\snippets\enterprise\jettywebsocket\jetty\client\WebSocketClientMain.class
+com\javacodegeeks\snippets\enterprise\jettywebsocket\jsr356\client\WebSocket356ClientMain.class
+com\javacodegeeks\snippets\enterprise\jettywebsocket\jetty\client\ToUpperClientSocket.class
+com\javacodegeeks\snippets\enterprise\jettywebsocket\jetty\server\ToUpperWebSocket.class

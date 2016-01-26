@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/test/resources" output="target/test-classes" excluding="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/websocket/javax.websocket-api/1.0/javax.websocket-api-1.0.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-server/9.2.11.v20150529/jetty-server-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-http/9.2.11.v20150529/jetty-http-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-util/9.2.11.v20150529/jetty-util-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-io/9.2.11.v20150529/jetty-io-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-servlet/9.2.11.v20150529/jetty-servlet-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-security/9.2.11.v20150529/jetty-security-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/javax-websocket-server-impl/9.2.11.v20150529/javax-websocket-server-impl-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-annotations/9.2.11.v20150529/jetty-annotations-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-plus/9.2.11.v20150529/jetty-plus-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-webapp/9.2.11.v20150529/jetty-webapp-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-xml/9.2.11.v20150529/jetty-xml-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-jndi/9.2.11.v20150529/jetty-jndi-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ow2/asm/asm/5.0.1/asm-5.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ow2/asm/asm-commons/5.0.1/asm-commons-5.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ow2/asm/asm-tree/5.0.1/asm-tree-5.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/javax-websocket-client-impl/9.2.11.v20150529/javax-websocket-client-impl-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-client/9.2.11.v20150529/websocket-client-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-common/9.2.11.v20150529/websocket-common-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-api/9.2.11.v20150529/websocket-api-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-server/9.2.11.v20150529/websocket-server-9.2.11.v20150529.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-servlet/9.2.11.v20150529/websocket-servlet-9.2.11.v20150529.jar"/>
+</classpath>

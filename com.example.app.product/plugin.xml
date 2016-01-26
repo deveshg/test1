@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+	 <extension
+         id="application"
+         point="org.eclipse.core.runtime.applications">
+      <application
+            cardinality="1"
+            thread="any"
+            visible="true">
+         <run
+               class="com.example.app.product.configurator.WebApplication">
+         </run>
+      </application>
+   </extension>
+    <extension id="com.example.app.product" point="org.eclipse.core.runtime.products"> 
+      <product name="%productName" application="com.example.app.product.application" description="%productBlurb"> 
+          <property name="appName" value="App"/> 
+          <property name="preferenceCustomization" value="plugin_customization.ini"/>
+      </product> 
+    </extension>
+   
+
+</plugin>
